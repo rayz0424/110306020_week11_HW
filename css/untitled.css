@@ -1,0 +1,13 @@
+.Lab1{
+	border: 1px solid blue; 
+	margin-left:150px;
+	float:left;
+
+}
+
+.Lab2{
+	margin-right:150px;
+	float:right;
+	height:150px;
+	width:300px;
+}

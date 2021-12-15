@@ -1,0 +1,29 @@
+.Lab1{
+	border: 1px solid blue; 
+	margin-left:150px;
+	float:left;
+
+}
+
+.Lab2{
+	border:5px #FFAC55 solid;
+	margin-right:150px;
+	float:right;
+	height:150px;
+	width:300px;
+}
+
+.HW2{
+	margin-left:50%;
+}
+
+.line{
+	border:5px #FFAC55 solid;
+	background-image:url(5494B231-0406-4CCF-925D-42EEF1845D92.jpg);
+}
+
+.imgs{
+	border: 5px solid blue;
+	margin-top:50px;
+	margin-bottom:50px;
+}

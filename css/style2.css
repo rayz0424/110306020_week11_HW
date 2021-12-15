@@ -1,0 +1,18 @@
+		hl{background-color: aqua;}
+		a.extra hl{background-color: inherit;}
+		a:hover {color:purple;}
+		a.text{position=absolute;
+				top:25px;
+				left:100px
+				z-index:2;}
+		ml{font-weight:bold;}
+		ml em{text-decoration: underline;}
+		kl{background-color: yellow;}
+
+		p{background-color: pink;
+		  margin-bottom .5em;
+		  width:30%;text-align:center;
+		  }
+		
+		a.Lab1{position=absolute;
+				left:150px}
